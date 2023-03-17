@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnIPC5_Producer", "LearnIPC5_Producer.csproj", "{A3FB446C-CD48-4585-A604-A630FDB88595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FB446C-CD48-4585-A604-A630FDB88595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FB446C-CD48-4585-A604-A630FDB88595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FB446C-CD48-4585-A604-A630FDB88595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FB446C-CD48-4585-A604-A630FDB88595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA680E4-51BA-4ABE-A886-5CFFED14418C}
+	EndGlobalSection
+EndGlobal
